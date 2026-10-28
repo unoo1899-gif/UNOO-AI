@@ -1,0 +1,6 @@
+{
+  "name": "Emo Book Service Sdn Bhd",
+  "description": "Educational book distributor in Malaysia catering to international schools, parents, and students with verified 100% ready local warehouse stock and 24-48h dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
